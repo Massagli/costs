@@ -5,9 +5,9 @@ import Company from './components/pages/Company';
 import Contact from './components/pages/Contact';
 import NewProject from './components/pages/NewProject';
 
-import Container from './layout/Container'
-import Navbar from "./layout/Navbar"
-import Footer from "./layout/Footer"
+import Container from './components/layout/Container'
+import Navbar from "./components/layout/Navbar"
+import Footer from "./components/layout/Footer"
 
 function App() {
   return (
